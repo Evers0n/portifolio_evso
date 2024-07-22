@@ -47,5 +47,10 @@ export class KnowledgeComponent {
       alt: 'Conhecimento sobre Bootstrap',
     }, 
 
+    {
+      src: 'assets/icons/knowledge/powerbi.svg',
+      alt: 'Conhecimento sobre PowerBI',
+    },
+
   ]);
 }
