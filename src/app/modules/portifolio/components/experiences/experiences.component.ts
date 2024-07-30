@@ -19,7 +19,7 @@ export class ExperiencesComponent {
       },
       text: '<p>Desde dezembro de 2023, atuo como desenvolvedor web autônomo, focado na criação de sites e desenvolvimento de APIs RESTFULL</p>',
     },
-    
+
     {
        summary: {
         strong: 'Estagiário',
